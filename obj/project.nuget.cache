@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "svlSjYoa/P0=",
+  "dgSpecHash": "NFs8jg117bU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Andrew\\source\\repos\\EcommerceEjemploApi\\EcommerceEjemploApi.csproj",
+  "projectFilePath": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\EcommerceEjemploApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Andrew\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Andrew\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

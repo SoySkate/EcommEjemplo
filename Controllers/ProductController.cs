@@ -43,6 +43,7 @@ namespace EcommerceEjemploApi.Controllers
         public IActionResult GetProduct(int productId)
         {
             if (!_productRepository.ProductExists(productId)) { return NotFound(); }
+
             var product = _mapper.Map<ProductDto>(_productRepository.GetProduct(productId));
             if (!ModelState.IsValid)
                 return BadRequest(ModelState);
@@ -85,7 +86,7 @@ namespace EcommerceEjemploApi.Controllers
         [ProducesResponseType(400)]
         [ProducesResponseType(204)]
         [ProducesResponseType(404)]
-        public IActionResult UpdateProduct(int productId, [FromBody] ProductDto productUpdate)
+        public IActionResult UpdateProduct(int productId, [FromQuery] int catId, [FromBody] ProductDto productUpdate)
         {
             if (productUpdate == null) { return BadRequest(ModelState); }
 
@@ -99,6 +100,7 @@ namespace EcommerceEjemploApi.Controllers
                 return BadRequest();
 
             var productMap = _mapper.Map<Product>(productUpdate);
+            productMap.Category = _categoryRepository.GetCategory(catId);
             if (!_productRepository.UpdateProduct(productMap))
             {
                 ModelState.AddModelError("", "Something went wrong updating product");

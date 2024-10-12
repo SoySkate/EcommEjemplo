@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Andrew\\source\\repos\\EcommerceEjemploApi\\EcommerceEjemploApi.csproj": {}
+    "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\EcommerceEjemploApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Andrew\\source\\repos\\EcommerceEjemploApi\\EcommerceEjemploApi.csproj": {
+    "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\EcommerceEjemploApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andrew\\source\\repos\\EcommerceEjemploApi\\EcommerceEjemploApi.csproj",
+        "projectUniqueName": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\EcommerceEjemploApi.csproj",
         "projectName": "EcommerceEjemploApi",
-        "projectPath": "C:\\Users\\Andrew\\source\\repos\\EcommerceEjemploApi\\EcommerceEjemploApi.csproj",
+        "projectPath": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\EcommerceEjemploApi.csproj",
         "packagesPath": "C:\\Users\\Andrew\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andrew\\source\\repos\\EcommerceEjemploApi\\obj\\",
+        "outputPath": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

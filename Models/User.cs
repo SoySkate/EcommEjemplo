@@ -11,5 +11,8 @@ namespace EcommerceEjemploApi.Models
         public string Phone { get; set; }
         public string Password { get; set; }
         public UserRole UserRole { get; set; }
+        // Relación de uno a muchos: un usuario puede tener varias reseñas (reviews)
+        public ICollection<Review> Reviews { get; set; }
+        public ICollection<Order> Orders { get; set; }
     }
 }

@@ -1,4 +1,6 @@
-﻿namespace EcommerceEjemploApi.Dto
+﻿using EcommerceEjemploApi.Models;
+
+namespace EcommerceEjemploApi.Dto
 {
     public class CategoryDto
     {

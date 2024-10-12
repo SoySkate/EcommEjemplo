@@ -4,6 +4,7 @@ using EcommerceEjemploApi.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace EcommerceEjemploApi.Migrations
 {
     [DbContext(typeof(DataContext))]
-    partial class DataContextModelSnapshot : ModelSnapshot
+    [Migration("20241011233629_renewDB")]
+    partial class renewDB
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -112,7 +115,7 @@ namespace EcommerceEjemploApi.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<int>("CategoryId")
+                    b.Property<int>("CategroyId")
                         .HasColumnType("int");
 
                     b.Property<string>("Description")
@@ -135,7 +138,7 @@ namespace EcommerceEjemploApi.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("CategoryId");
+                    b.HasIndex("CategroyId");
 
                     b.ToTable("Products");
                 });
@@ -247,7 +250,7 @@ namespace EcommerceEjemploApi.Migrations
                 {
                     b.HasOne("EcommerceEjemploApi.Models.Category", "Category")
                         .WithMany("Products")
-                        .HasForeignKey("CategoryId")
+                        .HasForeignKey("CategroyId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 

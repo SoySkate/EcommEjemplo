@@ -30,6 +30,22 @@ namespace EcommerceEjemploApi
             builder.Services.AddScoped<IOrderRepository, OrderRepository>();
             builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
 
+
+
+            // **CORS configuration (point number 2):**
+            //aqui simplemente queri especificar que se ppudiera llamar de cualquier sitio pero
+            //nose como va asi que salto a mirarme un proyecto plantilla
+            // Add services to the container.
+            builder.Services.AddCors(options =>
+            {
+                options.AddPolicy("AllowReactApp",
+                    builder => builder
+                        .WithOrigins("http://localhost:3000")
+                        .AllowAnyMethod()
+                        .AllowAnyHeader()
+                        .AllowCredentials());
+            });
+
             //nos conectamos al la base de datsos dels ervidor configurado en el appsetting.json
             builder.Services.AddDbContext<DataContext>(options =>
             {
@@ -47,7 +63,7 @@ namespace EcommerceEjemploApi
                 app.UseSwagger();
                 app.UseSwaggerUI();
             }
-
+            app.UseCors("AllowReactApp");
             app.UseHttpsRedirection();
 
             app.UseAuthorization();

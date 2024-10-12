@@ -10,5 +10,6 @@ namespace EcommerceEjemploApi.Dto
         public DateTime DateTime { get; set; }
         public decimal TotalPrice { get; set; }
         public OrderStatus OrderStatus { get; set; }
+        public int UserId { get; set; }
     }
 }

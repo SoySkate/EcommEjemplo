@@ -12,6 +12,9 @@ namespace EcommerceEjemploApi.Models
         public decimal TotalPrice { get; set; }
         public OrderStatus OrderStatus { get; set; }
         public ICollection<OrderDetail> OrderDetails { get; set; }
+        
+        //foreign keys:
+        public int UserId {  get; set; }
         public User User { get; set; }
 
 

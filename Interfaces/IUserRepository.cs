@@ -8,6 +8,7 @@ namespace EcommerceEjemploApi.Interfaces
         User GetUser(int id);
         User GetUser(string username);
         User GetUserByPhone(string phone);
+        User GetUserByOrderId(int orderId);
         bool UserPhoneExists(string phone);
         string GetUserAddress(int id);
         bool UserExists(int id);

@@ -74,5 +74,12 @@ namespace EcommerceEjemploApi.Repository
         {
             return _context.Users.Any(u=> u.Id == id);
         }
+
+        //nose si voy bine xd
+        public User GetUserByOrderId(int orderId)
+        {
+            var order = _context.Orders.Where(o=>o.Id == orderId).FirstOrDefault();
+            return _context.Users.Where(u => u.Id == order.UserId).FirstOrDefault();
+        }
     }
 }

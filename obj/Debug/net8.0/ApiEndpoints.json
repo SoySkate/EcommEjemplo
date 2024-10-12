@@ -632,6 +632,11 @@
         "IsRequired": true
       },
       {
+        "Name": "catId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
         "Name": "productUpdate",
         "Type": "EcommerceEjemploApi.Dto.ProductDto",
         "IsRequired": true

@@ -43,7 +43,11 @@ namespace EcommerceEjemploApi.Controllers
         public IActionResult GetOrder(int orderId)
         {
             if (!_orderRepository.OrderExists(orderId)) { return NotFound(); }
+            //nose si voy bine xd
+            //var user = _userRepository.GetUserByOrderId(orderId);
+                 //nose si voy bine xd
             var order = _mapper.Map<OrderDto>(_orderRepository.GetOrder(orderId));
+            //order.UserId = user.Id;
             if (!ModelState.IsValid)
                 return BadRequest(ModelState);
 
@@ -70,7 +74,8 @@ namespace EcommerceEjemploApi.Controllers
                 return BadRequest(ModelState);
 
             var orderMap = _mapper.Map<Order>(orderCreate);
-            orderMap.User = _userRepository.GetUser(userId);
+            //orderMap.User = _userRepository.GetUser(userId);
+            orderMap.UserId = userId;
 
             if (!_orderRepository.CreateOrder(orderMap))
             {
