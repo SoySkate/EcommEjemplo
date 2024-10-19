@@ -7,14 +7,18 @@ Crear la api como la de pókemonApi En este caso es un mini ejemplo de un ecomme
 
 - diseñar y creac el frontend
 
-**TODO:**
- (aviso: en el SSMS me dice que CategroyId para la tabla productos no es un nombre valido(pero lo pilla xd)
- Creo que es por la migracion (havia categroy en vez de categroy "ya he hecho la migacion y update pero se ha quedado este error")
+***********************************************TODO:*************************************************************
+ 
 -------mirar las passwords
 -------mirar auth users..   (algo de los tokens xd)
 
 [[[-HACER LOS SERVICES HAY UNO DE EJEMPLO Y DEBERÍAN DE SER TASK AWAITEDS CREO!]]]
 [[[-Y HACER UNA NUEVA MIGRATION YA QUE HE MODIFICADO EL MODEL USER!]]]
+-ESTOY HACIEDNO EL USER ME FALTA PONER EL USERSERVICE EN EL CONTROLLER EN VEZ DEL REPOSITORIO
+(Y HE PUESTO LAS FUNCIONES ASINCRONAS)-FALTA TERMINAR USER Y LUEGO PONERLO EN TODA LA APP 
+PRIMERO HAGO USER DE PRUEBA
+
+
 
 -hacer frontend
 
@@ -24,7 +28,8 @@ Crear la api como la de pókemonApi En este caso es un mini ejemplo de un ecomme
 
 
 
-
+(aviso: en el SSMS me dice que CategroyId para la tabla productos no es un nombre valido(pero lo pilla xd)
+ Creo que es por la migracion (havia categroy en vez de categroy "ya he hecho la migacion y update pero se ha quedado este error")
 
 
 Quizases:

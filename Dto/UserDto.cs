@@ -22,7 +22,7 @@ namespace EcommerceEjemploApi.Dto
         public string Phone { get; set; }
         [MaxLength(30)]
         [MinLength(6)]
-        public string Password { get; set; }
+        public string PasswordHash { get; set; }
         public UserRole UserRole { get; set; }
     }
 }

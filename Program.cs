@@ -2,6 +2,7 @@
 using EcommerceEjemploApi.Data;
 using EcommerceEjemploApi.Interfaces;
 using EcommerceEjemploApi.Repository;
+using EcommerceEjemploApi.Services;
 using Microsoft.EntityFrameworkCore;
 
 namespace EcommerceEjemploApi
@@ -29,6 +30,8 @@ namespace EcommerceEjemploApi
             builder.Services.AddScoped<IOrderDetailRepository, OrderDetailRepository>();
             builder.Services.AddScoped<IOrderRepository, OrderRepository>();
             builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
+            //Aqui tambien es necesario implementar las otras interfaces:
+            builder.Services.AddScoped<IUserService, UserService>();
 
 
 

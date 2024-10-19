@@ -62,7 +62,7 @@ namespace EcommerceEjemploApi.Controllers
         [HttpPost]
         [ProducesResponseType(204)]
         [ProducesResponseType(400)]
-        public IActionResult CreateReview([FromQuery] int productId, [FromQuery] int userId, [FromBody] ReviewDto reviewCreate)
+        public async Task<IActionResult> CreateReview([FromQuery] int productId, [FromQuery] int userId, [FromBody] ReviewDto reviewCreate)
         {
             if (reviewCreate == null) { return BadRequest(ModelState); }
 
@@ -80,7 +80,7 @@ namespace EcommerceEjemploApi.Controllers
 
             var reviewMap = _mapper.Map<Review>(reviewCreate);
 
-            reviewMap.User = _userRepository.GetUser(userId);
+            reviewMap.User = await _userRepository.GetUser(userId);
             if (reviewMap.User == null) { ModelState.AddModelError("", "User don't found"); return StatusCode(404, ModelState); }
 
             reviewMap.Product = _productRepository.GetProduct(productId);

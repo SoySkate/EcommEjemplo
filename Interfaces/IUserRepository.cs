@@ -2,21 +2,21 @@
 
 namespace EcommerceEjemploApi.Interfaces
 {
-    //funciones que hara el repository
+    //funciones que hara el repository /(DatabaseAcces)
     //La interface se comunica directamente con el repository (bueno lo implementa)
     public interface IUserRepository
     {
-        ICollection<User> GetUsers();
-        User GetUser(int id);
-        User GetUser(string username);
-        User GetUserByPhone(string phone);
-        User GetUserByOrderId(int orderId);
-        bool UserPhoneExists(string phone);
-        string GetUserAddress(int id);
-        bool UserExists(int id);
-        bool CreateUser(User user);
-        bool UpdateUser(User user);
-        bool DeleteUser(User user);
-        bool Save();
+        Task<ICollection<User>> GetUsers();
+        Task<User> GetUser(int id);
+        Task<User> GetUserByUsername(string username);
+        Task<User> GetUserByPhone(string phone);
+        Task<User> GetUserByOrderId(int orderId);
+        Task<bool> UserPhoneExists(string phone);
+        Task<string> GetUserAddress(int id);
+        Task<bool> UserExists(int id);
+        Task<bool> CreateUser(User user);
+        Task<bool> UpdateUser(User user);
+        Task<bool> DeleteUser(User user);
+        Task<bool> Save();
     }
 }
