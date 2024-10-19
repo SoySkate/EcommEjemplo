@@ -1,5 +1,5 @@
 ﻿https://lucid.app/lucidchart/1e5d0416-2e7a-4ded-b6cd-90ea2b3b9019/edit?viewport_loc=2583%2C1452%2C1997%2C916%2C0_0&invitationId=inv_667ac75b-bdb2-4d96-8c47-51668ab9097b
-
+# MY ECOMMERCE
 Crear la api como la de pókemonApi En este caso es un mini ejemplo de un ecommerce
 - En este caso no hace falta hacer las tablas JOIN porque no tenermos relacions de many to many
 - hacer prubas con swagger 
@@ -7,11 +7,14 @@ Crear la api como la de pókemonApi En este caso es un mini ejemplo de un ecomme
 
 - diseñar y creac el frontend
 
-TODO:
+**TODO:**
  (aviso: en el SSMS me dice que CategroyId para la tabla productos no es un nombre valido(pero lo pilla xd)
  Creo que es por la migracion (havia categroy en vez de categroy "ya he hecho la migacion y update pero se ha quedado este error")
 -------mirar las passwords
 -------mirar auth users..   (algo de los tokens xd)
+
+[[[-HACER LOS SERVICES HAY UNO DE EJEMPLO Y DEBERÍAN DE SER TASK AWAITEDS CREO!]]]
+[[[-Y HACER UNA NUEVA MIGRATION YA QUE HE MODIFICADO EL MODEL USER!]]]
 
 -hacer frontend
 

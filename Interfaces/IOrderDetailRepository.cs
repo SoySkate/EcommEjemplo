@@ -2,6 +2,8 @@
 
 namespace EcommerceEjemploApi.Interfaces
 {
+    //funciones que hara el repository
+    //La interface se comunica directamente con el repository (bueno lo implementa)
     public interface IOrderDetailRepository
     {
         ICollection<OrderDetail> GetOrdersDetails();

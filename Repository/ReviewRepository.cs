@@ -4,6 +4,8 @@ using EcommerceEjemploApi.Models;
 
 namespace EcommerceEjemploApi.Repository
 {
+    //funciones que se usaran para acciones CRUD + interface(funciones declaradas)
+    //el repository se intercomunica directamente con el context
     public class ReviewRepository : IReviewRepository
     {
         private readonly DataContext _context;

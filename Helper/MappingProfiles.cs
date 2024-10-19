@@ -7,6 +7,7 @@ namespace EcommerceEjemploApi.Helper
     public class MappingProfiles : Profile
     {
         //Aqui podemos especificar como se hacen los mapeos (de una class a otra classDto y a la inversa)
+        //Osea de que forma mapeamos (especificaciones)
         public MappingProfiles()
         {
             CreateMap<User, UserDto>();

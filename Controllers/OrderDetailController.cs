@@ -9,6 +9,11 @@ namespace EcommerceEjemploApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+
+    //Aqui el CONTROLLER es la API que se llama a las funciones del Sevice
+    //Por ejemplo al crear un user hace el post y llama a la funcion CreateUser from Service
+    //((Aqui me he saltado el Service y lo he hecho directo, el controller se conecta directo a la API
+    //Cuando la GOODPRACTICE es: que el controller se conecte al service y el service al repositorio))
     public class OrderDetailController : Controller
     {
         private readonly IOrderDetailRepository _orderDetailRepository;

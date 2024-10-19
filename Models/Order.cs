@@ -2,6 +2,8 @@
 
 namespace EcommerceEjemploApi.Models
 {
+    //Clase creada que se usara para crear objetos de esta clase
+    //Se le añade si es necesario segun las relaciones las foreign key
     public class Order
     {
         public int Id { get; set; }

@@ -5,7 +5,7 @@ namespace EcommerceEjemploApi.Data
 {
     public class DataContext : DbContext
     {
-
+        //el context se comunica directamente con la base de datos
         public DataContext(DbContextOptions<DataContext> options) : base(options)
         {
             
