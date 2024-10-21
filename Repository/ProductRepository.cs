@@ -47,6 +47,11 @@ namespace EcommerceEjemploApi.Repository
             return _context.Products.OrderBy(p=>p.Id).ToList();
         }
 
+        public ICollection<Product> GetProductsByCategory(int idCat)
+        {
+            return _context.Products.Where(p => p.CategoryId == idCat).ToList();
+        }
+
         public bool ProductExists(int productId)
         {
             return _context.Products.Any(p=>p.Id == productId);

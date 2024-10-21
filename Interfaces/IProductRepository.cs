@@ -7,6 +7,7 @@ namespace EcommerceEjemploApi.Interfaces
     public interface IProductRepository
     {
         ICollection<Product> GetProducts();
+        ICollection<Product> GetProductsByCategory(int idCat);
         Product GetProduct(int productId);
         Product GetProduct(string name);
         Product GetProduct(decimal price);

@@ -5,6 +5,7 @@ using EcommerceEjemploApi.Interfaces;
 using EcommerceEjemploApi.Models;
 using EcommerceEjemploApi.Repository;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.IdentityModel.Tokens;
 
 namespace EcommerceEjemploApi.Controllers
 {
@@ -35,6 +36,22 @@ namespace EcommerceEjemploApi.Controllers
         public IActionResult GetProducts()
         {
             var products = _mapper.Map<List<ProductDto>>(_productRepository.GetProducts());
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+            return Ok(products);
+        }
+
+        //__________________________READ ALL PRODUCTS FROM A CATGEROY
+        [HttpGet("/api/Product/cat{catId}")]
+        [ProducesResponseType(200, Type = typeof(IEnumerable<Product>))]
+        public IActionResult GetProductsByCategory(int catId)
+        {
+
+            if (!_categoryRepository.CategoryExists(catId)) { return NotFound(); }
+            var products = _mapper.Map<List<ProductDto>>(_productRepository.GetProductsByCategory(catId));
+   
             if (!ModelState.IsValid)
             {
                 return BadRequest(ModelState);

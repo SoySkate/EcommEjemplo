@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{12857677-4A6E-49CB-8FCC-34D41F1826BD}|EcommerceEjemploApi.csproj|c:\\users\\andrew\\source\\repos\\ejemploecommfullstack\\ecommerceejemploapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12857677-4A6E-49CB-8FCC-34D41F1826BD}|EcommerceEjemploApi.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12857677-4A6E-49CB-8FCC-34D41F1826BD}|EcommerceEjemploApi.csproj|c:\\users\\andrew\\source\\repos\\ejemploecommfullstack\\ecommerceejemploapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12857677-4A6E-49CB-8FCC-34D41F1826BD}|EcommerceEjemploApi.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12857677-4A6E-49CB-8FCC-34D41F1826BD}|EcommerceEjemploApi.csproj|c:\\users\\andrew\\source\\repos\\ejemploecommfullstack\\ecommerceejemploapi\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12857677-4A6E-49CB-8FCC-34D41F1826BD}|EcommerceEjemploApi.csproj|solutionrelative:dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12857677-4A6E-49CB-8FCC-34D41F1826BD}|EcommerceEjemploApi.csproj|c:\\users\\andrew\\source\\repos\\ejemploecommfullstack\\ecommerceejemploapi\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12857677-4A6E-49CB-8FCC-34D41F1826BD}|EcommerceEjemploApi.csproj|solutionrelative:repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12857677-4A6E-49CB-8FCC-34D41F1826BD}|EcommerceEjemploApi.csproj|c:\\users\\andrew\\source\\repos\\ejemploecommfullstack\\ecommerceejemploapi\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12857677-4A6E-49CB-8FCC-34D41F1826BD}|EcommerceEjemploApi.csproj|solutionrelative:interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12857677-4A6E-49CB-8FCC-34D41F1826BD}|EcommerceEjemploApi.csproj|c:\\users\\andrew\\source\\repos\\ejemploecommfullstack\\ecommerceejemploapi\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12857677-4A6E-49CB-8FCC-34D41F1826BD}|EcommerceEjemploApi.csproj|solutionrelative:dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{12857677-4A6E-49CB-8FCC-34D41F1826BD}|EcommerceEjemploApi.csproj|c:\\users\\andrew\\source\\repos\\ejemploecommfullstack\\ecommerceejemploapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12857677-4A6E-49CB-8FCC-34D41F1826BD}|EcommerceEjemploApi.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,10 +67,6 @@
       "RelativeMoniker": "D:0:0:{12857677-4A6E-49CB-8FCC-34D41F1826BD}|EcommerceEjemploApi.csproj|solutionrelative:readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12857677-4A6E-49CB-8FCC-34D41F1826BD}|EcommerceEjemploApi.csproj|c:\\users\\andrew\\source\\repos\\ejemploecommfullstack\\ecommerceejemploapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12857677-4A6E-49CB-8FCC-34D41F1826BD}|EcommerceEjemploApi.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{12857677-4A6E-49CB-8FCC-34D41F1826BD}|EcommerceEjemploApi.csproj|c:\\users\\andrew\\source\\repos\\ejemploecommfullstack\\ecommerceejemploapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12857677-4A6E-49CB-8FCC-34D41F1826BD}|EcommerceEjemploApi.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -59,20 +79,12 @@
       "RelativeMoniker": "D:0:0:{12857677-4A6E-49CB-8FCC-34D41F1826BD}|EcommerceEjemploApi.csproj|solutionrelative:controllers\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12857677-4A6E-49CB-8FCC-34D41F1826BD}|EcommerceEjemploApi.csproj|c:\\users\\andrew\\source\\repos\\ejemploecommfullstack\\ecommerceejemploapi\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12857677-4A6E-49CB-8FCC-34D41F1826BD}|EcommerceEjemploApi.csproj|solutionrelative:dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{12857677-4A6E-49CB-8FCC-34D41F1826BD}|EcommerceEjemploApi.csproj|c:\\users\\andrew\\source\\repos\\ejemploecommfullstack\\ecommerceejemploapi\\dto\\orderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12857677-4A6E-49CB-8FCC-34D41F1826BD}|EcommerceEjemploApi.csproj|solutionrelative:dto\\orderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{12857677-4A6E-49CB-8FCC-34D41F1826BD}|EcommerceEjemploApi.csproj|c:\\users\\andrew\\source\\repos\\ejemploecommfullstack\\ecommerceejemploapi\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12857677-4A6E-49CB-8FCC-34D41F1826BD}|EcommerceEjemploApi.csproj|solutionrelative:dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12857677-4A6E-49CB-8FCC-34D41F1826BD}|EcommerceEjemploApi.csproj|c:\\users\\andrew\\source\\repos\\ejemploecommfullstack\\ecommerceejemploapi\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12857677-4A6E-49CB-8FCC-34D41F1826BD}|EcommerceEjemploApi.csproj|solutionrelative:dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{12857677-4A6E-49CB-8FCC-34D41F1826BD}|EcommerceEjemploApi.csproj|c:\\users\\andrew\\source\\repos\\ejemploecommfullstack\\ecommerceejemploapi\\dto\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -99,10 +111,6 @@
       "RelativeMoniker": "D:0:0:{12857677-4A6E-49CB-8FCC-34D41F1826BD}|EcommerceEjemploApi.csproj|solutionrelative:interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12857677-4A6E-49CB-8FCC-34D41F1826BD}|EcommerceEjemploApi.csproj|c:\\users\\andrew\\source\\repos\\ejemploecommfullstack\\ecommerceejemploapi\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12857677-4A6E-49CB-8FCC-34D41F1826BD}|EcommerceEjemploApi.csproj|solutionrelative:interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{12857677-4A6E-49CB-8FCC-34D41F1826BD}|EcommerceEjemploApi.csproj|c:\\users\\andrew\\source\\repos\\ejemploecommfullstack\\ecommerceejemploapi\\interfaces\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12857677-4A6E-49CB-8FCC-34D41F1826BD}|EcommerceEjemploApi.csproj|solutionrelative:interfaces\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -123,10 +131,6 @@
       "RelativeMoniker": "D:0:0:{12857677-4A6E-49CB-8FCC-34D41F1826BD}|EcommerceEjemploApi.csproj|solutionrelative:models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12857677-4A6E-49CB-8FCC-34D41F1826BD}|EcommerceEjemploApi.csproj|c:\\users\\andrew\\source\\repos\\ejemploecommfullstack\\ecommerceejemploapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12857677-4A6E-49CB-8FCC-34D41F1826BD}|EcommerceEjemploApi.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{12857677-4A6E-49CB-8FCC-34D41F1826BD}|EcommerceEjemploApi.csproj|c:\\users\\andrew\\source\\repos\\ejemploecommfullstack\\ecommerceejemploapi\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12857677-4A6E-49CB-8FCC-34D41F1826BD}|EcommerceEjemploApi.csproj|solutionrelative:repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -141,10 +145,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{12857677-4A6E-49CB-8FCC-34D41F1826BD}|EcommerceEjemploApi.csproj|c:\\users\\andrew\\source\\repos\\ejemploecommfullstack\\ecommerceejemploapi\\repository\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12857677-4A6E-49CB-8FCC-34D41F1826BD}|EcommerceEjemploApi.csproj|solutionrelative:repository\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12857677-4A6E-49CB-8FCC-34D41F1826BD}|EcommerceEjemploApi.csproj|c:\\users\\andrew\\source\\repos\\ejemploecommfullstack\\ecommerceejemploapi\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12857677-4A6E-49CB-8FCC-34D41F1826BD}|EcommerceEjemploApi.csproj|solutionrelative:repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -154,7 +154,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -162,7 +162,133 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\ReadMe.txt",
+              "RelativeDocumentMoniker": "ReadMe.txt",
+              "ToolTip": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\ReadMe.txt",
+              "RelativeToolTip": "ReadMe.txt",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvxUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-12T11:41:17.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Dto\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "Dto\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Dto\\CategoryDto.cs",
+              "RelativeToolTip": "Dto\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T23:44:20.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAowC4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T18:01:23.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "Repository\\ProductRepository.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAIwDMAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T01:42:10.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T01:42:39.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Dto\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Dto\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Dto\\ProductDto.cs",
+              "RelativeToolTip": "Dto\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T14:02:47.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T18:34:30.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Data\\DataContext.cs",
+              "RelativeToolTip": "Data\\DataContext.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAwEEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T17:28:28.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T18:32:06.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Repository\\UserRepository.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAjwDoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T15:36:13.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Controllers\\UserController.cs",
@@ -175,59 +301,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Services\\UserService.cs",
-              "RelativeToolTip": "Services\\UserService.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAowEIAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T02:11:41.38Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Interfaces\\IUserService.cs",
-              "RelativeDocumentMoniker": "Interfaces\\IUserService.cs",
-              "ToolTip": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Interfaces\\IUserService.cs",
-              "RelativeToolTip": "Interfaces\\IUserService.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBMAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T13:23:39.681Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Interfaces\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "Interfaces\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Interfaces\\IUserRepository.cs",
-              "RelativeToolTip": "Interfaces\\IUserRepository.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAYAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T12:56:21.575Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAwwCAAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T11:25:27.286Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "UserDto.cs",
               "DocumentMoniker": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Dto\\UserDto.cs",
               "RelativeDocumentMoniker": "Dto\\UserDto.cs",
@@ -235,76 +309,59 @@
               "RelativeToolTip": "Dto\\UserDto.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAgwBgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T17:35:48.886Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T17:35:48.886Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Repository\\UserRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Repository\\UserRepository.cs",
-              "RelativeToolTip": "Repository\\UserRepository.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAjwDoAAAAGAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwCAAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T15:36:13.703Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Models\\User.cs",
-              "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T18:32:06.927Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DataContext.cs",
-              "DocumentMoniker": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Data\\DataContext.cs",
-              "RelativeDocumentMoniker": "Data\\DataContext.cs",
-              "ToolTip": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Data\\DataContext.cs",
-              "RelativeToolTip": "Data\\DataContext.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAAwEEAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T17:28:28.699Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-09T11:25:27.286Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "ReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\ReadMe.txt",
-              "RelativeDocumentMoniker": "ReadMe.txt",
-              "ToolTip": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\ReadMe.txt",
-              "RelativeToolTip": "ReadMe.txt",
-              "ViewState": "AgIAAAEAAAAAAAAAAADwvxUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-10-12T11:41:17.977Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T18:01:23.404Z"
+              "WhenOpened": "2024-10-19T12:56:21.575Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 8,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T13:23:39.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowEIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T02:11:41.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "OrderController.cs",
               "DocumentMoniker": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
@@ -316,7 +373,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 16,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
@@ -328,7 +385,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "OrderDetailController.cs",
               "DocumentMoniker": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Controllers\\OrderDetailController.cs",
               "RelativeDocumentMoniker": "Controllers\\OrderDetailController.cs",
@@ -340,19 +397,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CategoryDto.cs",
-              "DocumentMoniker": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Dto\\CategoryDto.cs",
-              "RelativeDocumentMoniker": "Dto\\CategoryDto.cs",
-              "ToolTip": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Dto\\CategoryDto.cs",
-              "RelativeToolTip": "Dto\\CategoryDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T23:44:20.392Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "OrderDetailDto.cs",
               "DocumentMoniker": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Dto\\OrderDetailDto.cs",
               "RelativeDocumentMoniker": "Dto\\OrderDetailDto.cs",
@@ -364,7 +409,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "OrderDto.cs",
               "DocumentMoniker": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Dto\\OrderDto.cs",
               "RelativeDocumentMoniker": "Dto\\OrderDto.cs",
@@ -376,19 +421,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ProductDto.cs",
-              "DocumentMoniker": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Dto\\ProductDto.cs",
-              "RelativeDocumentMoniker": "Dto\\ProductDto.cs",
-              "ToolTip": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Dto\\ProductDto.cs",
-              "RelativeToolTip": "Dto\\ProductDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T14:02:47.901Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "ReviewDto.cs",
               "DocumentMoniker": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Dto\\ReviewDto.cs",
               "RelativeDocumentMoniker": "Dto\\ReviewDto.cs",
@@ -400,7 +433,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "UserRole.cs",
               "DocumentMoniker": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Enums\\UserRole.cs",
               "RelativeDocumentMoniker": "Enums\\UserRole.cs",
@@ -412,7 +445,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "OrderStatus.cs",
               "DocumentMoniker": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Enums\\OrderStatus.cs",
               "RelativeDocumentMoniker": "Enums\\OrderStatus.cs",
@@ -424,7 +457,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "ICategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Interfaces\\ICategoryRepository.cs",
               "RelativeDocumentMoniker": "Interfaces\\ICategoryRepository.cs",
@@ -436,7 +469,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "IOrderDetailRepository.cs",
               "DocumentMoniker": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Interfaces\\IOrderDetailRepository.cs",
               "RelativeDocumentMoniker": "Interfaces\\IOrderDetailRepository.cs",
@@ -448,7 +481,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "IOrderRepository.cs",
               "DocumentMoniker": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Interfaces\\IOrderRepository.cs",
               "RelativeDocumentMoniker": "Interfaces\\IOrderRepository.cs",
@@ -460,7 +493,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "IReviewRepository.cs",
               "DocumentMoniker": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Interfaces\\IReviewRepository.cs",
               "RelativeDocumentMoniker": "Interfaces\\IReviewRepository.cs",
@@ -472,7 +505,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Models\\Category.cs",
@@ -484,7 +517,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "OrderDetail.cs",
               "DocumentMoniker": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Models\\OrderDetail.cs",
               "RelativeDocumentMoniker": "Models\\OrderDetail.cs",
@@ -496,19 +529,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Interfaces\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "Interfaces\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Interfaces\\IProductRepository.cs",
-              "RelativeToolTip": "Interfaces\\IProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T01:42:39.531Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "Review.cs",
               "DocumentMoniker": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Models\\Review.cs",
               "RelativeDocumentMoniker": "Models\\Review.cs",
@@ -520,19 +541,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Models\\Product.cs",
-              "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T18:34:30.267Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Models\\Order.cs",
               "RelativeDocumentMoniker": "Models\\Order.cs",
@@ -544,7 +553,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "CategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Repository\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "Repository\\CategoryRepository.cs",
@@ -556,7 +565,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "OrderDetailRepository.cs",
               "DocumentMoniker": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Repository\\OrderDetailRepository.cs",
               "RelativeDocumentMoniker": "Repository\\OrderDetailRepository.cs",
@@ -568,7 +577,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "OrderRepository.cs",
               "DocumentMoniker": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Repository\\OrderRepository.cs",
               "RelativeDocumentMoniker": "Repository\\OrderRepository.cs",
@@ -580,7 +589,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "ReviewRepository.cs",
               "DocumentMoniker": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Repository\\ReviewRepository.cs",
               "RelativeDocumentMoniker": "Repository\\ReviewRepository.cs",
@@ -589,18 +598,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-19T12:54:18.116Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Repository\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\Andrew\\source\\repos\\EjemploEcommFullStack\\EcommerceEjemploApi\\Repository\\ProductRepository.cs",
-              "RelativeToolTip": "Repository\\ProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T01:42:10.042Z"
             }
           ]
         }
